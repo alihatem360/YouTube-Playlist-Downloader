@@ -39,8 +39,4 @@ Your choice: 1
 - Downloaded: Video 2
 - Downloaded: Video 3
 
-Download complete.
-
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Download complete 🎉

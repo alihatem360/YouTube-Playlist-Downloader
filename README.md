@@ -28,15 +28,16 @@ Total duration: 78 minutes 19 seconds
 Total size: 228 MB
 
 How do you want to download the videos?
-Press 1 to download all videos at once.
-Press 2 to download one video at a time.
-Press 3 to download a part of the playlist.
+
+- Press 1 to download all videos at once.
+- Press 2 to download one video at a time.
+- Press 3 to download a part of the playlist.
 
 Your choice: 1
 
-Downloaded: Video 1
-Downloaded: Video 2
-Downloaded: Video 3
+- Downloaded: Video 1
+- Downloaded: Video 2
+- Downloaded: Video 3
 
 Download complete.
 

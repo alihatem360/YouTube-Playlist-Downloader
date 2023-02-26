@@ -19,6 +19,8 @@ This is a Python script that allows you to download videos from a YouTube playli
 3. Select one of the download options: download all videos at once, download one video at a time, or download a part of the playlist.
 4. Follow the on-screen instructions to complete the download process.
 
+**Note:** Before running the script, create a folder for the downloaded videos and add the path to the `DOWNLOAD_PATH` variable in the script.
+
 ## Example Output
 
 Enter the Youtube Playlist link: https://www.youtube.com/playlist?list=Plolopoplop

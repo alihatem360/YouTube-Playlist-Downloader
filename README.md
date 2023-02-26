@@ -23,9 +23,9 @@ This is a Python script that allows you to download videos from a YouTube playli
 
 Enter the Youtube Playlist link: https://www.youtube.com/playlist?list=Plolopoplop
 
-Number of videos in the playlist: 5
-Total duration: 78 minutes 19 seconds
-Total size: 228 MB
+- Number of videos in the playlist: 5
+- Total duration: 78 minutes 19 seconds
+- Total size: 228 MB
 
 How do you want to download the videos?
 

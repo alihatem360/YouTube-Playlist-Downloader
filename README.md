@@ -1,4 +1,4 @@
-# YouTube Playlist Downloader
+# 🎥 YouTube Playlist Downloader
 
 This Python project allows you to download all videos or a part of them from a YouTube playlist.
 
@@ -7,7 +7,7 @@ This Python project allows you to download all videos or a part of them from a Y
 - Python 3.x installed
 - `pytube` library installed (you can install it with `pip install pytube`)
 
-## Usage
+## 🚀 Usage
 
 1. Clone or download this repository to your local machine.
 

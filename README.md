@@ -7,7 +7,12 @@ This Python project allows you to download all videos or a part of them from a Y
 - Python 3.x installed
 - `pytube` library installed (you can install it with `pip install pytube`)
 
+
+
 ## 🚀 Usage
+
+### watch the video tutorial here 👇🏽
+ <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b6b562260e2344988c1e78477a9d30d5?sid=ebcc7ffd-8444-4046-b900-77b07f2407a2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 1. Clone or download this repository to your local machine.
 

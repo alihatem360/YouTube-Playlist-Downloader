@@ -11,9 +11,7 @@ This Python project allows you to download all videos or a part of them from a Y
 
 ## 🚀 Usage
 
-### watch the video tutorial here 👇🏽
- <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/b6b562260e2344988c1e78477a9d30d5?sid=ebcc7ffd-8444-4046-b900-77b07f2407a2" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
+### watch the video tutorial [here](https://www.loom.com/share/b6b562260e2344988c1e78477a9d30d5?sid=1b64d82a-9656-4907-afcd-37128e0b61b9)
 1. Clone or download this repository to your local machine.
 
 2. Open a terminal or command prompt and navigate to the directory where you have the `download_youtube_playlist.py` script.

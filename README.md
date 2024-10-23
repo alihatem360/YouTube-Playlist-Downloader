@@ -7,8 +7,11 @@ This Python project allows you to download all videos or a part of them from a Y
 - Python 3.x installed
 - `pytube` library installed (you can install it with `pip install pytube`)
 
+
+
 ## 🚀 Usage
 
+### watch the video tutorial [https://www.loom.com/share/b6b562260e2344988c1e78477a9d30d5?sid=1b64d82a-9656-4907-afcd-37128e0b61b9](https://www.loom.com/share/b6b562260e2344988c1e78477a9d30d5?sid=1b64d82a-9656-4907-afcd-37128e0b61b9)
 1. Clone or download this repository to your local machine.
 
 2. Open a terminal or command prompt and navigate to the directory where you have the `download_youtube_playlist.py` script.
